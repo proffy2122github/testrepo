@@ -9,7 +9,7 @@ There are something inside...
 ## Documents
 Here, there are few documents about programming language that you can find inside this repository.
 ### C++
-C++, or C plus plus, is an extension to C. Current documents are verified and tested in Code;;Blocks or Visual Studio and even DevC++ by Bloodshed.
+C++, or C plus plus, is an extension to C. Current documents are verified and tested in Code::Blocks or Visual Studio and even DevC++ by Bloodshed. (Turbo C++ are too old and unsupported.)
 
 Current C++ version (revision) is 17. In 2020, it will be C++20 and not revision 17.
 ### C
