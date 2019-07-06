@@ -17,7 +17,7 @@ C, or C++ predecessor, is a high-level programming language, like C++.
 
 C however, rendering 2D image faster than C++ while rendering 3D in C is not good. C++ is faster in scientific and 3D program or even rendering software.
 ### Assembly
-Assembly is a low-level language. Assembly is created by J. Wheeler created Assembly language.
+Assembly is a low-level language. Assembly is created by J. Wheeler.
 ## Excluded language (few)
 ### Python
 Python is also a high-level programming language, but why?
