@@ -1,4 +1,4 @@
-This is a test Repository about programming languages.
+This is a test Repository about programming languages documents.
 
 -----------------------------------------------------------
 Information:
