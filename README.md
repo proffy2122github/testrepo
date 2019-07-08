@@ -31,6 +31,7 @@ In C:
 - load the integer from location b
 - perform integer addition
 - store the resulting integer into location c
+
 Total: 4 CPU commands
  
 In Python:
@@ -45,6 +46,7 @@ In Python:
 - perform integer addition
 - allocate new memory
 - wrap the resulting value in a new object
+
 Total: a few hundred CPU commands.
 
 Objective: c = a + b
