@@ -12,3 +12,5 @@ The library used currently is library from C++ revision 17 (or C++17).
 Some Windows C++ Library such as "windows.h" are also included but in a specific folder.
 ## Modifications
 There is also some modifications on watermarks and comments.
+## Test library
+Note that test library is a creative-based library used for Confidental OS.
