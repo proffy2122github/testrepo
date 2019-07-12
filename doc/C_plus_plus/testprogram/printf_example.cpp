@@ -1,11 +1,11 @@
 /* Welcome to Proffy2122Github repo's!
 This program will:
-- Print Hello, World! and Turbo C 2.0 in 2 different columns.
+- Print Hello, World! and Turbo C 2.0 in 2 different lines.
 - Stop the machine to see the results we made.
 */
-// github.com/proffy2122github/testrepo/new/ 
-#include <stdio.h>
-#include <conio.h>
+// github.com/proffy2122github/testrepo/
+#include <stdio.h> // contains printf
+#include <conio.h> // contains getch
 // start with int main()
 int main()
 {
@@ -13,5 +13,6 @@ int main()
   //may force it to print in the next, next column.
   printf("Turbo C 2.0\n");
   // printed 2 sentences.
-  _getch(); // we don't use regular getch(); because of error C4996 described in the hello world program. (tested in MS Visual Studio 2019).
+  getch(); 
+  // if using visual studio use _getch(); instead.
 }
